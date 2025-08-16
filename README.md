@@ -62,4 +62,5 @@ Orders by City and State (map visualization)
 State-wise distribution of customer categories
 
 ### Dashboard looks like : 
-1[Alt_Text](https://github.com/Ashh0508/Myntra-Product-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
+
+https://github.com/Ashh0508/Myntra-Product-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
