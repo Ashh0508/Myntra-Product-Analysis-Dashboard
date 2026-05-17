@@ -63,4 +63,4 @@ State-wise distribution of customer categories
 
 ### Dashboard looks like : 
 
-![Myntra Dashboard](Screenshot 2026-05-17 022708.png)
+![Myntra Dashboard](Screenshot2026-05-17022708.png)
