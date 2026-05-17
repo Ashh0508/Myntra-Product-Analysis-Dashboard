@@ -1,4 +1,4 @@
-<img width="1163" height="731" alt="Screenshot 2026-05-17 022853" src="https://github.com/user-attachments/assets/67492bfd-fac8-4015-843f-4cc1ddef2b35" /># 👗 Myntra Fashion Product Analysis Dashboard
+# 👗 Myntra Fashion Product Analysis Dashboard
 Domain: E-commerce | Retail Analytics | Business Intelligence
 
 ## 📌 Project Overview
