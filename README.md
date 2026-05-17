@@ -1,4 +1,4 @@
-# 👗 Myntra Fashion Product Analysis Dashboard
+<img width="1163" height="731" alt="Screenshot 2026-05-17 022853" src="https://github.com/user-attachments/assets/67492bfd-fac8-4015-843f-4cc1ddef2b35" /># 👗 Myntra Fashion Product Analysis Dashboard
 Domain: E-commerce | Retail Analytics | Business Intelligence
 
 ## 📌 Project Overview
@@ -62,5 +62,6 @@ Orders by City and State (map visualization)
 State-wise distribution of customer categories
 
 ### Dashboard looks like : 
+![Uploading Screenshot 2026-05-17 022853.png…]()
 
 ![Myntra](https://github.com/Ashh0508/Myntra-Product-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
